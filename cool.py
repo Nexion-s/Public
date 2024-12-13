@@ -24,7 +24,7 @@ USER_FILE = "users.txt"
 
 # Cooldown management
 user_cooldowns = {}
-COOLDOWN_TIME = 10 * 60  # Cooldown time in seconds (10 minutes)
+COOLDOWN_TIME = 1 * 60  # Cooldown time in seconds (10 minutes)
 
 
 def load_users():
